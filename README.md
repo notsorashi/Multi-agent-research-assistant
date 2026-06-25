@@ -263,6 +263,9 @@ The Streamlit interface features:
 
 ## 📝 Example Workflow
 
+<img width="364" height="205" alt="image" src="https://github.com/user-attachments/assets/2562b262-57ee-44b6-8b46-b17d16aa0d9a" />
+
+
 ```bash
 $ python pipeline.py
 Enter Research Topic: Artificial Intelligence in Healthcare
